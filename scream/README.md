@@ -1,2 +1,2 @@
 ## Hint
-Each image has some data
+Doesn't every image have some metadata.
