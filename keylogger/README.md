@@ -1,4 +1,4 @@
-Even ubuntu has a keylogger
+Ubuntu has a keylogger!!
 
 ## Hint
 cat /dev/input/event0 > file base64 file > keylog.txt
