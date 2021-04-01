@@ -1,2 +1,2 @@
 ## Hint
-Hmm... n cannot be factorized!!
+Everything you need to know is given.
